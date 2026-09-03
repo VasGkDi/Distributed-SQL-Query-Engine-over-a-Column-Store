@@ -1,6 +1,6 @@
 # Distributed SQL Query Engine over a Column Store
 
-A small distributed SQL query engine built around column-oriented storage. The project was developed as the final project for **CS50** and as a practical application of concepts from my **MSc class in Big Data**.
+A small distributed SQL query engine built around column-oriented storage. The project was developed as the final project for **CS50** and as a practical application of concepts from my **MSc class in Big Data Management**.
 
 ## Overview
 
