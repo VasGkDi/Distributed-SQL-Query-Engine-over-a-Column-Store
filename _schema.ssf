@@ -1,0 +1,4 @@
+id: int64 key
+region: string
+amount: float64
+ts: timestamp(ms) nullable
